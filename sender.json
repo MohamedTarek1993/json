@@ -7,7 +7,7 @@
             "Description": "Lorem ipsum dolor sit amet, conset…..",
             "link": "",
             "type": "We",
-            "Pay": "Pay Now",
+            "Pay": "",
             "Status": "pending",
             "status_key":1
         },
@@ -18,7 +18,7 @@
             "Description": "Lorem ipsum dolor sit amet, conset…..",
             "link": "https://www.youtube.com/watch?v=tdDcpURozj4&ab_channel=AbdelHalimHafez-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D9%85%D8%AD%D8%A7%D9%81%D8%B8",
             "type": "We",
-            "Pay": "Pay Now",
+            "Pay": "kjsfkjskjsfk",
             "Status": "completed",
             "status_key":0
         }, {
@@ -26,10 +26,9 @@
             "name":"name",
             "date": "20 july 2022 - 04:30 pm",
             "Description": "Lorem ipsum dolor sit amet, conset…..",
-           
             "link": "",
             "type": "We",
-            "Pay": "Pay Now",
+            "Pay": "",
             "Status": "pending",
             "status_key":1
         }, {
@@ -40,8 +39,7 @@
             "Document": "Uploaded",
             "link": "https://www.youtube.com/watch?v=tdDcpURozj4&ab_channel=AbdelHalimHafez-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D9%85%D8%AD%D8%A7%D9%81%D8%B8",
             "type": "We",
-            "Pay": "Pay Now",
-            "pay_key":"",
+            "Pay": "lkslkflkflfsdk",
             "Status": "pending",
             "status_key":1
 
