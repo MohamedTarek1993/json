@@ -8,7 +8,8 @@
             "Document": "Uploaded",
             "type": "We",
             "Pay": "Pay Now",
-            "Status": "pending"
+            "Status": "pending",
+            "status_key":1
         },
         {
             "id": "1",
@@ -18,7 +19,8 @@
             "Document": "Uploaded",
             "type": "We",
             "Pay": "Pay Now",
-            "Status": "pending"
+            "Status": "completed",
+            "status_key":0
         }, {
             "id": "1",
             "name":"name",
@@ -27,7 +29,8 @@
             "Document": "Uploaded",
             "type": "We",
             "Pay": "Pay Now",
-            "Status": "pending"
+            "Status": "pending",
+            "status_key":1
         }, {
             "id": "1",
             "name":"name",
@@ -36,7 +39,9 @@
             "Document": "Uploaded",
             "type": "We",
             "Pay": "Pay Now",
-            "Status": "pending"
+            "Status": "pending",
+            "status_key":1
+
         }, {
             "id": "1",
             "name":"Software",
@@ -45,7 +50,8 @@
             "Document": "Upload",
             "type": "Vodafone",
             "Pay": "Paid",
-            "Status": "complted"
+            "Status": "completed",
+            "status_key":0
         }
       
       
